@@ -1,0 +1,36 @@
+================================================================================
+REPORTES DE MOVIMIENTOS SÍSMICOS POR CIUDAD
+================================================================================
+Ciudad: Armenia (ID: C01)
+Habitantes: 304314
+Detalle de Movimientos:
+  * Código: S001 | Inicio: 08:15:02 | Fin: 08:15:18 | Mag: 3.4 | Prof: 18.0 km
+  * Código: S003 | Inicio: 11:42:00 | Fin: 11:42:12 | Mag: 2.8 | Prof: 10.0 km
+Total de Movimientos: 2
+Movimiento de Mayor Magnitud: S001 (3.4)
+Profundidad Promedio: 14.00 km
+
+--------------------------------------------------------------------------------
+Ciudad: Calarcá (ID: C02)
+Habitantes: 78684
+Detalle de Movimientos:
+  * Código: S002 | Inicio: 09:30:10 | Fin: 09:30:29 | Mag: 4.1 | Prof: 25.0 km
+Total de Movimientos: 1
+Movimiento de Mayor Magnitud: S002 (4.1)
+Profundidad Promedio: 25.00 km
+
+--------------------------------------------------------------------------------
+Ciudad: Circasia (ID: C03)
+Habitantes: 30941
+Detalle de Movimientos:
+  * Sin movimientos registrados
+Total de Movimientos: 0
+Movimiento de Mayor Magnitud: No aplica
+Profundidad Promedio: No aplica km
+
+================================================================================
+REGISTROS RECHAZADOS
+================================================================================
+* Archivo Ciudades: 0 registro(s) rechazado(s)
+* Archivo Movimientos: 0 registro(s) rechazado(s)
+================================================================================
