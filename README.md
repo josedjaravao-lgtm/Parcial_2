@@ -1,6 +1,6 @@
 Estructura del Repositorio
 
-parcial-2-elixir/
+Parcial_2/
 ├── README.md
 ├── punto-1/
 │   ├── main.exs
