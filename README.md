@@ -62,7 +62,6 @@ elixir --sname cliente --cookie clave123 .\cliente.exs
 3. Verificación de Atendimiento Continuo
 
 Para comprobar que el servidor sigue activo tras recibir :fin, vuelve a ejecutar el cliente en la Terminal 2:
-
-elixir --sname cliente@localhost --cookie mi_secreto_uq cliente.exs
+elixir --sname cliente --cookie clave123 .\cliente.exs
 
 
