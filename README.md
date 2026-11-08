@@ -1,7 +1,7 @@
 Estructura del Repositorio
 
-Parcial_2/
-├── README.md
+README.md
+Parcial2/
 ├── punto-1/
 │   ├── main.exs
 │   ├── coordinador.exs
